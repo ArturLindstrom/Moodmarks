@@ -39,7 +39,7 @@ export default {
   margin: 2rem 0
   
 .email, .phone
-  align-self: flex-start
+  // align-self: flex-start
 
 .contact
   margin-bottom: 1rem
