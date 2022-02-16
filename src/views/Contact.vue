@@ -34,8 +34,6 @@ export default {
   align-items: center
   margin: 6rem 3rem
   
-  
-
 .info, .icon-large, .marks
   text-align: center
   margin: 2rem 0
@@ -46,5 +44,4 @@ export default {
 .contact
   margin-bottom: 1rem
   align-self: flex-start
-
 </style>
