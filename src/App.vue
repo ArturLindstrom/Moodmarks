@@ -20,6 +20,7 @@
 *
   margin: 0
   padding: 0
+  font-family: 'Lexend', sans-serif
 
 #app 
   font-family: 'Lexend', sans-serif
@@ -49,10 +50,10 @@
     &.router-link-exact-active 
       text-decoration: underline
     
-img
-  display:flex
-  justify-content:center
-  align-items: center
-  margin: 0
+  .img-flex
+    display:flex
+    justify-content:center
+    align-items: center
+    margin: 0
 
 </style>

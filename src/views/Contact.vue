@@ -32,7 +32,8 @@ export default {
   flex-direction: column
   justify-content: spac-around
   align-items: center
-  margin: 6rem 3rem
+  margin: 6rem 3rem 0
+  overflow-y: hidden
   
 .info, .icon-large, .marks
   text-align: center
@@ -42,6 +43,6 @@ export default {
   align-self: flex-start
 
 .contact
-  margin-bottom: 1rem
+  // margin-bottom: 1rem
   align-self: flex-start
 </style>
